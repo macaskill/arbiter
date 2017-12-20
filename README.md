@@ -3,7 +3,7 @@
 ## Install
 Currently runs on Python3 and requires deps from `requirements.txt`:
 ```
-pip installl -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run
